@@ -4,7 +4,14 @@
 
 I'm Naol and I am a senior majoring in Computer Science in SUNY Plattsbugrh. I also have a minor in mathematics. I am most proficent in Python and C++ but I also have substantial experience in Java, React, React Native, Dart and C. I am currently working as a software engineering intern at Capital Region BOCES and also I am an upcoming SE intern at Tech For Good. 
 
-Skills: Python/C++/Dart/Java/React/CSS/HTML/C
+###Skills and Experience
+   - 🐍 Python
+   - 👨‍👧‍👦 C++
+   - ☕️ Java
+   - ⚛️ React
+   - 🎯 Dart
+   - <CSS/>
+   - <HTML/>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Machine Learning and Data Science 
