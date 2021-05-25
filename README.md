@@ -14,7 +14,7 @@ I'm Naol and I am a senior majoring in Computer Science at SUNY Plattsbugrh. I a
       - CSS
       - HTML
  
-## Examples of work
+## Examples of work(TimeIt, to do list application made using Dart)
 <img src="https://media.giphy.com/media/exXiQNYLPjTdyGvw3o/giphy.gif" width= 500/>
 
 
