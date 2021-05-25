@@ -1,7 +1,6 @@
 ![Software Engineering Intern](https://github.com/Nlege001/Nlege001/blob/main/Naol%20Legesse.jpg)
 
-### Hi there 👋, I am Naol Legesse
-#### Software Engineering Intern
+### Naol Legesse
 
 
 I'm Naol and I am a senior majoring in Computer Science in SUNY Plattsbugrh. I also have a minor in mathematics. I am most proficent in Python and C++ but I also have substantial experience in Java, React, React Native, Dart and C. I am currently working as a software engineering intern at Capital Region BOCES and also I am an upcoming SE intern at Tech For Good. 
