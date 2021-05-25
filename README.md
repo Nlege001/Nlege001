@@ -17,8 +17,7 @@ I'm Naol and I am a senior majoring in Computer Science in SUNY Plattsbugrh. I a
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Machine Learning and Data Science 
-- 👯 I’m looking to collaborate on Projects involving machine learning and AI 
-- 🤔 I’m looking for help with Getting a Job  
+- 👯 I’m looking to collaborate on Projects involving machine learning and AI  
 - 📫 How to reach me: nlege001@plattsburgh.edu ,https://www.linkedin.com/in/naol-legesse-b3007317b/ 
 - ⚡ Fun fact: I play soccer and also the piano 
 
