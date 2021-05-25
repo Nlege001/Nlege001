@@ -15,7 +15,7 @@ I'm Naol and I am a senior majoring in Computer Science at SUNY Plattsbugrh. I a
       - HTML
  
 ## Examples of work
-<img src="" width= 256/>
+<img src="https://github.com/Nlege001/Nlege001/blob/main/High%20fidelity%20Prototype.mp4" width= 256/>
 
 
 - 🔭 I’m currently working on this page. 
