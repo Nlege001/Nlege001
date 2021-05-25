@@ -13,6 +13,9 @@ I'm Naol and I am a senior majoring in Computer Science at SUNY Plattsbugrh. I a
       - 🎯 Dart
       - CSS
       - HTML
+ 
+## Examples of work
+<img src="" width= 256/>
 
 
 - 🔭 I’m currently working on this page. 
