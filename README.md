@@ -10,7 +10,7 @@ Skills: Python/C++/Dart/Java/React/CSS/HTML/C
 - 🌱 I’m currently learning Machine Learning and Data Science 
 - 👯 I’m looking to collaborate on Projects involving machine learning and AI 
 - 🤔 I’m looking for help with Getting a Job  
-- 📫 How to reach me: nlege001@plattsburgh.edu 
+- 📫 How to reach me: nlege001@plattsburgh.edu ,https://www.linkedin.com/in/naol-legesse-b3007317b/ 
 - ⚡ Fun fact: I play soccer and also the piano 
 
 
