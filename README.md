@@ -10,7 +10,7 @@ I'm Naol and I am a senior majoring in Computer Science at SUNY Plattsbugrh. I a
       - ☕️ Java
       - ⚛️ React
       - 🎯 Dart
-      - CSS
+      - #️⃣ CSS
       - HTML
  
 ## Examples of work(TimeIt, to do list application made using Dart)
