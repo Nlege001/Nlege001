@@ -2,7 +2,7 @@
 
 # Naol Legesse
 
-I'm Naol and I am a senior majoring in Computer Science at SUNY Plattsbugrh. I also have a minor in mathematics. I am most proficent in Python and C++ but I also have substantial experience in Java, React, Dart and C. I am currently working as a software engineering intern at Capital Region BOCES and and also Tech For Good. 
+I'm Naol and I am a senior majoring in Computer Science at SUNY Plattsbugrh. I also have a minor in mathematics. I am most proficent in Python and C++ but I also have substantial experience in Java, React, Dart and C. I am currently working as a software engineering intern at Fox Corporation and and also Tech For Good. 
 
 ## Skills and Experience
       - 🐍 Python
