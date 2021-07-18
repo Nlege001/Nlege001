@@ -32,4 +32,7 @@ I'm Naol and I am a senior majoring in Computer Science at SUNY Plattsburgh. I a
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nlege001)  
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
 
