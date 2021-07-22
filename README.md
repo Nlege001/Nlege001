@@ -1,7 +1,7 @@
 
 
 # Hello👋, I am Naol Legesse
-
+![Software Engineering Intern](https://github.com/Nlege001/Nlege001/blob/main/Naol%20Legesse.jpg)
 I am a senior majoring in Computer Science at SUNY Plattsburgh. I also have a minor in mathematics. I am most proficent in Python and C++ but I also have substantial experience in Java, React, Dart and C. I am currently working as a software engineering intern at Fox Corporation and and also at Tech For Good. 
 
 ## Skills and Experience
