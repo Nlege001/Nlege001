@@ -1,4 +1,4 @@
-![Software Engineering Intern]
+![Software Engineering Intern](https://github.com/Nlege001/Nlege001/blob/main/Naol%20Legesse.jpg)
 
 # Naol Legesse
 
