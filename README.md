@@ -20,7 +20,7 @@ I am a senior majoring in Computer Science at SUNY Plattsburgh. I also have a mi
 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Machine Learning and Data Science 
+- 🌱 I’m currently learning Machine Learning, Data Science and Android Development
 - 👯 I’m looking to collaborate on Projects involving machine learning and AI  
 - 📫 How to reach me: nlege001@plattsburgh.edu ,https://www.linkedin.com/in/naol-legesse-b3007317b/ 
 - ⚡ Fun fact: I play soccer and also the piano 
