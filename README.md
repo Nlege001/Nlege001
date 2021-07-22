@@ -11,7 +11,7 @@ I am a senior majoring in Computer Science at SUNY Plattsburgh. I also have a mi
       - ⚛️ React
       - 🎯 Dart
       - #️⃣ CSS
-      - HTML
+      - 5️⃣ HTML
  
 ## Examples of work(TimeIt, to do list application made using Dart)
 <img src="https://media.giphy.com/media/exXiQNYLPjTdyGvw3o/giphy.gif" width= 500/>
