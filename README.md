@@ -1,6 +1,7 @@
 
 
 # Hello👋, I am Naol Legesse
+# Hello <img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif>, I am Naol Legesse
 ![Software Engineering Intern](https://github.com/Nlege001/Nlege001/blob/main/PPy.jpg)
 
 
