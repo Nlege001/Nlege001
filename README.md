@@ -8,6 +8,7 @@ I am a senior majoring in Computer Science at SUNY Plattsburgh. I also have a mi
 ## Skills and Experience
       - 🐍 Python
       - 👨‍👧‍👦 C++
+      - 🦘 Kotlin
       - ☕️ Java
       - ⚛️ React
       - 🎯 Dart
