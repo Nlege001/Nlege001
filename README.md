@@ -24,6 +24,8 @@ I am a senior majoring in Computer Science at SUNY Plattsburgh. I also have a mi
 - 📫 How to reach me: nlege001@plattsburgh.edu ,https://www.linkedin.com/in/naol-legesse-b3007317b/ 
 - ⚡ Fun fact: I play soccer and also the piano 
 
+
+### Contact Info
 [![Twitter Badge](https://img.shields.io/badge/-@dechassanaol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DechassaNaol?s=09)](https://twitter.com/DechassaNaol?s=09) [![Linkedin Badge](https://img.shields.io/badge/-Naol_Legesse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naol-legesse-b3007317b/) [![Mail Badge](https://img.shields.io/badge/-dechassanaol-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dechassanaol@gmail.com)
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nlege001)](https://github.com/anuraghazra/github-readme-stats)--->
