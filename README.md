@@ -34,7 +34,7 @@ I am a senior majoring in Computer Science at SUNY Plattsburgh. I also have a mi
 
 [![Naol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nlege001&theme=github)](https://activity-graph.herokuapp.com/graph?username=Nlege001)  
 
-![](https://github.com/DenverCoder1/github-readme-streak-stats.git)
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
