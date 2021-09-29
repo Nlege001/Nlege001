@@ -32,7 +32,7 @@ I am a senior majoring in Computer Science at SUNY Plattsburgh. I also have a mi
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nlege001&show_icons=true&theme=dracula)  
 
-[![Naol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nlege001&theme=github)](https://activity-graph.herokuapp.com/graph?username=Nlege001)  
+<!---[![Naol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nlege001&theme=github)](https://activity-graph.herokuapp.com/graph?username=Nlege001)  --->
 
 
 
