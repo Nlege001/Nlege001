@@ -36,7 +36,7 @@ I am a senior majoring in Computer Science at SUNY Plattsburgh. I also have a mi
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+ ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 
