@@ -10,15 +10,6 @@
       - #️⃣ CSS
       - 5️⃣ HTML
  
-## Examples of work (TimeIt, a to-do list application made using Dart and flutter)
-<img src="https://media.giphy.com/media/exXiQNYLPjTdyGvw3o/giphy.gif" width= 500/>
-
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Machine Learning, Data Science and Android Development(front and backend)
-- 📫 How to reach me: nlege001@plattsburgh.edu ,https://www.linkedin.com/in/naol-legesse-b3007317b/ 
-- ⚡ Fun fact: I play soccer and also the piano 
-
 
 ### Contact Info
 [![Twitter Badge](https://img.shields.io/badge/-@dechassanaol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DechassaNaol?s=09)](https://twitter.com/DechassaNaol?s=09) [![Linkedin Badge](https://img.shields.io/badge/-Naol_Legesse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naol-legesse-b3007317b/) [![Mail Badge](https://img.shields.io/badge/-dechassanaol-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dechassanaol@gmail.com)
