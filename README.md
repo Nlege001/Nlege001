@@ -1,5 +1,6 @@
 
 # Hello<img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width = 40>, I am Naol Legesse 
+
 ## Skills and Experience
       - 🐍 Python
       - 👨‍👧‍👦 C++
