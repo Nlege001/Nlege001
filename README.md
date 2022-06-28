@@ -12,6 +12,7 @@
       - 5️⃣ HTML
  
  
+ 
 
 ### Contact Info
 [![Twitter Badge](https://img.shields.io/badge/-@dechassanaol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DechassaNaol?s=09)](https://twitter.com/DechassaNaol?s=09) [![Linkedin Badge](https://img.shields.io/badge/-Naol_Legesse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naol-legesse-b3007317b/) [![Mail Badge](https://img.shields.io/badge/-dechassanaol-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dechassanaol@gmail.com)
