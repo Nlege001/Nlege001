@@ -21,9 +21,7 @@
 
 <!--- [![Naol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nlege001&theme=github)](https://activity-graph.herokuapp.com/graph?username=Nlege001) --->
 
-
-
-
-
  ![](https://komarev.com/ghpvc/?username=your-github-username)
+ 
+ ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
