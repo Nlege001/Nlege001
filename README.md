@@ -15,7 +15,7 @@
 ### Contact Info
 [![Linkedin Badge](https://img.shields.io/badge/-Naol_Legesse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naol-legesse-b3007317b/) [![Mail Badge](https://img.shields.io/badge/-dechassanaol-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dechassanaol@gmail.com)
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nlege001)](https://github.com/anuraghazra/github-readme-stats)--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nlege001)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nlege001&show_icons=true&theme=dracula)  
 
