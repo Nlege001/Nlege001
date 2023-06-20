@@ -18,11 +18,11 @@
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nlege001)](https://github.com/anuraghazra/github-readme-stats) --->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nlege001&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nlege001&theme=bear&hide_border=false)<br/>
+<!---![](https://github-readme-streak-stats.herokuapp.com/?user=Nlege001&theme=bear&hide_border=false)<br/> --->
 
 
 
-<!--- [![Naol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nlege001&theme=github)](https://activity-graph.herokuapp.com/graph?username=Nlege001) --->
+[![Naol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nlege001&theme=github)](https://activity-graph.herokuapp.com/graph?username=Nlege001)
 
  ![](https://komarev.com/ghpvc/?username=Nlege001)
  
