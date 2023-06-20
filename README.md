@@ -22,7 +22,7 @@
 
 
 
-![Naol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nlege001&theme=github)](https://activity-graph.herokuapp.com/graph?username=Nlege001)
+<!---![Naol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nlege001&theme=github)](https://activity-graph.herokuapp.com/graph?username=Nlege001)--->
 
  ![](https://komarev.com/ghpvc/?username=Nlege001)
  
